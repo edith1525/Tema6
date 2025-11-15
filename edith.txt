@@ -1,1 +1,6 @@
-Search by Websites- //input[@placeholder='Search by Websites']
+- trending   //h2[contains(.,'Trending')]  
+
+-potatoz     //li[contains(a , '🥔 Potatoz')] 
+
+- news       //div[@class='home-tab-bar__tab home-tab-bar__tab-news']//h2
+
